@@ -1,0 +1,7 @@
+  INFO    2023-05-05 10:09:08.629147900 +09:30 Loaded file referenced by SENTRY_PROPERTIES (./sentry.properties)
+  INFO    2023-05-05 10:09:08.637761700 +09:30 sentry-cli was invoked with the following command line: "F:\Workspaces\Sentry_Crash\Library\PackageCache\io.sentry.unity@3e83308f1f\Editor\sentry-cli\sentry-cli-Windows-x86_64.exe" "upload-dif" "--il2cpp-mapping" "F:/Workspaces/Sentry_Crash/Library/Bee/Android"
+  INFO    2023-05-05 10:09:08.637787500 +09:30 Issuing a command for Organization: odd-games Project: trucks-off-road
+> Found 51 debug information files
+> Resolved il2cpp mappings for 0 debug information files
+> Prepared debug information files for upload
+> Nothing to upload, all files are on the server
